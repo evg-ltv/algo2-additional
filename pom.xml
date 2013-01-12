@@ -17,6 +17,7 @@
         <module>algo2-huffman</module>
         <module>algo2-wis</module>
         <module>algo2-sequence-alignment</module>
+        <module>algo2-bellman-ford</module>
     </modules>
 
 </project>
